@@ -1,0 +1,9 @@
+fastapi==0.141.1
+uvicorn==0.52.2
+pydantic==2.13.4
+sentence-transformers==5.7.0
+bcrypt==5.0.0
+chromadb==1.5.9
+pymupdf==1.28.2
+psycopg[binary]==3.3.4
+requests==2.34.2

@@ -1,0 +1,31 @@
+# Python virtual environments
+.venv/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local development files
+*.log
+.pytest_cache/
+.mypy_cache/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment compatibility symlink
+lib64
